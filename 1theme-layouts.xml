@@ -1784,18 +1784,6 @@ head.appendChild(script);
         </div>
         </div>
 
-        <div class='column-right-outer'>
-        <div class='column-right-inner'>
-          <aside>
-          <macro:include id='main-column-right-sections' name='sections'>
-            <macro:param default='2' name='num' value='1'/>
-            <macro:param default='sidebar-right' name='idPrefix'/>
-            <macro:param default='sidebar' name='class'/>
-            <macro:param default='true' name='includeBottom'/>
-          </macro:include>
-          </aside>
-        </div>
-        </div>
 
         </div>
 
