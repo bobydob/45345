@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="ads" />
+<Content type="html"><![CDATA[
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Games</title>
+    <style>
+body {
+overflow:hidden;
+margin-top:0;
+margin-left:0;
+}
+ </style>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22886116467/970x250', [970, 250], 'div-gpt-ad-1677964907530-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+  </head>
+  <body>
+
+<!-- /22886116467/970x250 -->
+<div id='div-gpt-ad-1677964907530-0' style='min-width: 970px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1677964907530-0'); });
+  </script>
+</div>
+<h2>Unblocked Games </h2>
+<p>Play online and flash games completely free!... Unblocked games is an amazing site full of free online games! Each adventure from our collection is a lot of pleasure and at the same time absolutely free entertainment. We have a suitable game for everyone: from action and sports genres, to cross-dressing games and strategies! Our website has all kinds of online games. Both advanced gamers and beginners will like our huge choice. If you want to break away from business for a while and feel relaxed fun, we will have quick and simple tasks. And for a deeper dive into the action, try one of our more challenging games.</p>
+  </body>
+</html>
+
+]]></Content>
+</Module>
